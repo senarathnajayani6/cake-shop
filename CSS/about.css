@@ -22,18 +22,7 @@ body{
   overflow: hidden
   
 }
-#topnav a {
-  float: left;
-  color:white;
-  text-align: center;
-  padding: 10px 40px;
-  text-decoration: none;
 
-font-size:17px}
-#topnav a#active {
-  background-color:blue ;
-  color: white;
-}
 #topnav #a:hover {
   background-color:blue;
   color: black;

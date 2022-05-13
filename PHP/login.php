@@ -45,15 +45,15 @@ header("location:login.php");
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title> login page</title>
 
-<link rel="stylesheet" type="text/css" href="login 1.css">
+    <link rel="stylesheet" type="text/css" href="CSS/login 1.css">
 </head>
 <body>
 <div id="topbar">
 	<div id="topnav">
-		<a href="cake.html">Home</a>
+		<a href="Home.html">Home</a>
 		<a href="about.html">About Us</a>
-		<a href="Product and Services.html">Products And Services</a>
-		<a id="active" href="login.php">Log In</a>
+		<a href="Gallery.html">Gallery</a>
+		<a id="active" href="PHP/login.php">Log In</a>
 	</div>
 </div>
 
